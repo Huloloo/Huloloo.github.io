@@ -42,7 +42,7 @@
 
 ## 5. AI and automated processing
 
-5.1 Consultations use our managed systems and, with consent, third-party models (including DeepSeek for formatting, Qwen and GLM for tongue images as described in the Privacy Policy).
+5.1 Consultations use our managed systems. With your consent, DeepSeek helps write consultation replies, reports, daily summaries, and Five Elements explanations. Alibaba Cloud Qwen receives the prepared tongue photo only for the final analysis. The Privacy Policy describes the data each service receives.
 
 5.2 Output may be inaccurate or inappropriate for your situation. You must verify health decisions with qualified professionals.
 
@@ -72,7 +72,7 @@
 
 ## 9. App store legal information
 
-When you obtain Huloloo App from a store (such as Apple App Store or Google Play):
+These provisions apply when you obtain Huloloo App from the Apple App Store or, if we offer it there in the future, Google Play:
 
 - These Terms are between you and us, **not** the store operator. We are responsible for Huloloo App and its content, subject to the store’s rules.
 - The store is not obligated to support or maintain Huloloo App.
@@ -81,7 +81,7 @@ When you obtain Huloloo App from a store (such as Apple App Store or Google Play
 
 ## 10. Ending use and retention
 
-10.1 Health data retention and deletion follow the Privacy Policy. **Account deletion, record deletion and AI consent withdrawal are available in Huloloo App.** Signing out or uninstalling does not delete cloud data until you delete it or your account.
+10.1 We keep consultation messages and health records long term. Each new health summary uses available past tongue analyses, daily records, and follow-up answers alongside current information. You can withdraw AI consent and delete selected records or your account under Data Management. Confirmed deletions take effect in active systems during the request. The Privacy Policy explains backup retention and the effect of withdrawing consent.
 
 10.2 You may stop using Huloloo App at any time.
 
